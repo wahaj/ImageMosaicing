@@ -1,0 +1,15 @@
+[submodule "TriesStruct"]
+	path = TriesStruct
+	url = git@github.com:WahajJaved/TriesStruct.git
+[submodule "SubwaySystem"]
+	path = SubwaySystem
+	url = git@github.com:WahajJaved/SubwaySystem
+[submodule "SeamRemoval"]
+	path = SeamRemoval
+	url = git@github.com:WahajJaved/SeamRemoval
+[submodule "FileTransferTCP"]
+	path = FileTransferTCP
+	url = git@github.com:WahajJaved/FileTransferTCP
+[submodule "WebServer"]
+	path = WebServer
+	url = git@github.com:WahajJaved/WebServer
