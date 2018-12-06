@@ -13,3 +13,6 @@
 [submodule "WebServer"]
 	path = WebServer
 	url = git@github.com:WahajJaved/WebServer
+[submodule "MiscFreelance"]
+	path = MiscFreelance
+	url = git@github.com:WahajJaved/MiscFreelance.git
