@@ -16,3 +16,12 @@
 [submodule "MiscFreelance"]
 	path = MiscFreelance
 	url = git@github.com:WahajJaved/MiscFreelance.git
+[submodule "TextMusicPlayer"]
+	path = TextMusicPlayer
+	url = git@github.com:WahajJaved/TextMusicPlayer.git
+[submodule "Snort-IDS"]
+	path = Snort-IDS
+	url = git@github.com:WahajJaved/Snort-IDS.git
+[submodule "ImageMosaicing"]
+	path = ImageMosaicing
+	url = git@github.com:WahajJaved/ImageMosaicing.git
